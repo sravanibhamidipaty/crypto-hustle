@@ -35,8 +35,7 @@ The fixed sidebar lists recent crypto news headlines, each linking out to the so
 ### Demo
 A full run: the coin list loading, filtering with the search bar, and the news sidebar.
 
-<!-- Upload demo.mov on github.com and paste ONLY the generated user-attachments link on the blank line below (no other text) -->
-
+https://github.com/user-attachments/assets/3466af04-7947-4485-ac5b-c4338cde932b
 
 ## What I practiced
 - Making API calls inside a `useEffect()` with `async`/`await` and `fetch`
